@@ -2,7 +2,6 @@ import React from "react";
 import styled from "styled-components";
 import { Bio } from "../../data/constants";
 import Typewriter from "typewriter-effect";
-import HeroImg from "../../images/HeroImage.jpeg";
 import HeroBgAnimation from "../HeroBgAnimation";
 import { Tilt } from "react-tilt";
 import { motion } from "framer-motion";
@@ -14,6 +13,10 @@ import {
 import StarCanvas from "../canvas/Stars";
 import BgImg from "../../images/bgImg3.png"
 import HeroImg2 from '../../images/heroImg.jpeg'
+
+
+const isMobile = window.innerWidth <= 768;
+
 const HeroContainer = styled.div`
   display: flex;
   justify-content: center;
@@ -221,11 +224,12 @@ const Hero = () => {
     <div
   id="About"
   style={{
-    backgroundImage: `url(${BgImg})`,
-    backgroundSize: "85%",
-    backgroundPosition: "right center",
-    backgroundRepeat: "no-repeat",
-  }}
+        backgroundImage: `url(${BgImg})`,
+        backgroundSize: isMobile ? "180%" : "85%",
+        backgroundPosition: isMobile ? "top -50px right" : "right center",
+        backgroundRepeat: "no-repeat",
+        minHeight: isMobile ? "1000px" : "700px",
+      }}
 >
       <HeroContainer>
         <HeroBg>

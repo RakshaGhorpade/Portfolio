@@ -1,4 +1,3 @@
-import lneimg from '../images/LNE.png'
 import dypatil from '../images/dypatil.jpg'
 import SNJB from '../images/SNJB.jpg'
 import comp1 from '../images/comp1.jpeg'
