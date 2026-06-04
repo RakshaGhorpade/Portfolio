@@ -1,15 +1,13 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.58a0c615.css",
-    "main.js": "/Portfolio/static/js/main.8e2fdc69.js",
-    "static/media/RYD.png": "/Portfolio/static/media/RYD.5d24f914cc17730f4ebf.png",
-    "static/media/bb.png": "/Portfolio/static/media/bb.0d0abb469f8e3cba233d.png",
-    "static/media/Astara.png": "/Portfolio/static/media/Astara.027b430c89841bebd197.png",
-    "static/media/bgImg3.png": "/Portfolio/static/media/bgImg3.2cbbce5acbd8e8d23081.png",
+    "main.js": "/Portfolio/static/js/main.650a2b7f.js",
+    "static/media/RYD.png": "/Portfolio/static/media/RYD.97662bf11952d03970b2.png",
+    "static/media/bb.png": "/Portfolio/static/media/bb.1699dc98fd552f6f06e2.png",
+    "static/media/bgImg3.png": "/Portfolio/static/media/bgImg3.63cd7c256209abd2a0ba.png",
     "static/media/SNJB.jpg": "/Portfolio/static/media/SNJB.07a9b36adcf92e3e554a.jpg",
-    "static/media/LNE.png": "/Portfolio/static/media/LNE.24a935f615136189a759.png",
     "static/media/heroImg.jpeg": "/Portfolio/static/media/heroImg.0b55fc5deab0ae2af797.jpeg",
-    "static/media/HeroImage.jpeg": "/Portfolio/static/media/HeroImage.e05192289f12cff4392e.jpeg",
+    "static/media/Astara.png": "/Portfolio/static/media/Astara.a24e9a23814c921c516d.png",
     "static/media/proImg1.jpg": "/Portfolio/static/media/proImg1.d0fbc6379369dbe051dd.jpg",
     "static/media/eduImg.png": "/Portfolio/static/media/eduImg.e810e3f68e1e92932bcd.png",
     "static/media/dypatil.jpg": "/Portfolio/static/media/dypatil.bbb7231f2203123d3ab3.jpg",
@@ -17,10 +15,10 @@
     "static/media/comp1.jpeg": "/Portfolio/static/media/comp1.c3683e5a783a193056f6.jpeg",
     "index.html": "/Portfolio/index.html",
     "main.58a0c615.css.map": "/Portfolio/static/css/main.58a0c615.css.map",
-    "main.8e2fdc69.js.map": "/Portfolio/static/js/main.8e2fdc69.js.map"
+    "main.650a2b7f.js.map": "/Portfolio/static/js/main.650a2b7f.js.map"
   },
   "entrypoints": [
     "static/css/main.58a0c615.css",
-    "static/js/main.8e2fdc69.js"
+    "static/js/main.650a2b7f.js"
   ]
 }
